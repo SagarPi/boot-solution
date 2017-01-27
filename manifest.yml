@@ -1,0 +1,7 @@
+---
+applications:
+- name: test-proj99
+  domain: epsh.in
+  host: 99
+  path: target/lab-1-boot-solution-1.jar
+  memory: 512M
