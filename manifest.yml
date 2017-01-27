@@ -1,8 +1,8 @@
 ---
 applications:
-- name: "test-proj99"
-  domain: epsh.in
-  host: "99"
+- name: "testboot01"
+  domain: cfapps.io
+  host: "smboot"
   path: target/lab-1-boot-solution-1.jar
   memory: 512M
   buildpack: https://github.com/cloudfoundry/java-buildpack.git
